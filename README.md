@@ -1,2 +1,2 @@
-# face_recog-doggyfilter
-Using haarcascade to detect face and mask the face with a doggy filter.
+# face_recog-spiderman-mask
+Using haarcascade to detect face and mask the face with a spiderman mask.
