@@ -24,7 +24,7 @@ while(True):
     # Display the resulting frame
     cv2.imshow('frame', frame)
        
-    # the 'q' button is set as the
+    # the 'Q' button is set as the
     # desired button of your choice
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
